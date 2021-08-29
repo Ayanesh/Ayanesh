@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 
   Hello, there! 👋 I'm Ayanesh Chandra Sinha. I'm, a student, pursuing my B.Tech in Computer Science & Engineering.    
   I’m interested in Web Development, Cloud & Big Data.   
-  I’m currently learning J2EE Technologies.   
-  I’m looking to collaborate on JAVA Projects.   
-  
+  I’m currently learning J2EE Technologies & Several Frameworks.   
+  I’m looking to collaborate on Open Source Projects.   
+ 
   
   ### Let's Connect [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/ayaneshchandrasinha/) [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/SinhaAyanesh) 
   
