@@ -10,9 +10,9 @@ Ayanesh/Ayanesh is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-  Hello, there! 👋 Ayanesh here! I'm a Software Developer.    
+  Hello, there! 👋 Ayanesh here! I'm a Software Developer.       
+  I’m currently working on J2EE Technologies and Several Frameworks.     
   I’m interested in Back-end Development, Cybersecurity, Networking & Linux.  
-  I’m currently working on J2EE Technologies and Several Frameworks.        
   Always up to explore new technologies and learn new things... So, let's get started.
      
  
